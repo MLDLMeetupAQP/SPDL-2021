@@ -1,1 +1,1 @@
-# SPDL-2021
+# III Simposio Peruano de Deep Learning
